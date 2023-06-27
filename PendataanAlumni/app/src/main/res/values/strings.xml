@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Pendataan Alumni</string>
+    <string name="descLogoLogin">Logo PNJ</string>
+    <string name="textLogin">Login</string>
+    <string name="hintUsernameLogin">username</string>
+    <string name="hintPasswordLogin">password</string>
+    <string name="buttonLogin">Login</string>
+    <string name="title_activity_container">Container</string>
+    <string name="title_home">Home</string>
+    <string name="title_news">News</string>
+    <string name="title_profile">Profile</string>
+    <string name="textEmailProfile">Email</string>
+    <string name="textNimProfile">NIM</string>
+    <string name="textNamaProfile">Nama</string>
+    <string name="textKelasProfile">Kelas</string>
+    <string name="textLogoutProfile">Logout</string>
+    <string name="newsTitle">Lorem ipsum dolor sit amet</string>
+    <string name="newsImage">Gambar Berita</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque fringilla odio a congue. Morbi a consequat ex. Quisque ac maximus massa. Sed tellus turpis, efficitur nec nunc pellentesque, rutrum lacinia neque. Nam non purus interdum, maximus diam quis, posuere sem. Phasellus sagittis eros massa, quis mollis risus gravida vitae. Phasellus pretium elementum mi in aliquet. In ac commodo sapien. Donec sapien sem, convallis eget turpis a, varius fringilla tellus. Praesent a feugiat nulla, in ullamcorper libero. Duis eu enim nec arcu posuere condimentum. Donec sit amet metus sed velit varius volutpat. Proin a pretium metus. Nunc ut ligula quis dui tempus porttitor ut hendrerit diam. Nullam est urna, consectetur rhoncus commodo ut, dictum in neque. Donec quis volutpat velit, sed ultrices lorem.</string>
+    <string name="dummy_text_120">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque fringilla odio a congue. Morbi a consequat ex. Quisque ac maximus massa. Sed tellus turpis, efficitur nec nunc pellentesque, rutrum lacinia neque. Nam non purus interdum, maximus diam quis, posuere sem. Phasellus sagittis eros massa, quis mollis risus gravida vitae. Phasellus pretium elementum mi in aliquet. In ac commodo sapien. Donec sapien sem, convallis eget turpis a, varius fringilla tellus. Praesent a feugiat nulla, in ullamcorper libero. Duis eu enim nec arcu posuere condimentum. Donec sit amet metus sed velit varius volutpat. Proin a pretium metus. Nunc ut ligula quis dui tempus porttitor ut hendrerit diam.</string>
+    <string name="tambah_data_option">Tambah Data</string>
+    <string name="data_alumni_option">Data Alumni</string>
+    <string name="logout_option">Logout</string>
+    <string name="nimAlumni">NIM</string>
+    <string name="namaAlumni">Nama Alumni</string>
+    <string name="bdayPlaceAlumni">Tempat Lahir</string>
+    <string name="bdayDateAlumni">Tanggal Lahir</string>
+    <string name="addressAlumni">Alamat</string>
+    <string name="religionAlumni">Agama</string>
+    <string name="phoneAlumni">Tlp/hp</string>
+    <string name="entryYearAlumni">Tahun Masuk</string>
+    <string name="gradYearAlumni">Tahun Lulus</string>
+    <string name="jobAlumni">Pekerjaan</string>
+    <string name="positionAlumni">Jabatan</string>
+    <string name="saveAlumni">Simpan</string>
+</resources>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="8dp"
+    android:orientation="vertical"
+    tools:context=".alumni.AddAlumniActivity">
+
+
+    <EditText
+        android:id="@+id/nimEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:minHeight="48dp"
+        android:hint="@string/nimAlumni"/>
+
+    <EditText
+        android:id="@+id/nameEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:minHeight="48dp"
+        android:hint="@string/namaAlumni"/>
+
+    <EditText
+        android:id="@+id/bdayPlaceEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:minHeight="48dp"
+        android:hint="@string/bdayPlaceAlumni"/>
+
+    <EditText
+        android:id="@+id/bdayDateEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:minHeight="48dp"
+        android:hint="@string/bdayDateAlumni"/>
+
+    <EditText
+        android:id="@+id/addressEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:minHeight="48dp"
+        android:hint="@string/addressAlumni"/>
+
+    <EditText
+        android:id="@+id/religionEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:minHeight="48dp"
+        android:hint="@string/religionAlumni"/>
+
+    <EditText
+        android:id="@+id/phoneEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:minHeight="48dp"
+        android:hint="@string/phoneAlumni"/>
+
+    <EditText
+        android:id="@+id/entryYearEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:minHeight="48dp"
+        android:hint="@string/entryYearAlumni"/>
+
+    <EditText
+        android:id="@+id/gradYearEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:minHeight="48dp"
+        android:hint="@string/gradYearAlumni"/>
+
+    <EditText
+        android:id="@+id/jobEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:minHeight="48dp"
+        android:hint="@string/jobAlumni"/>
+
+    <EditText
+        android:id="@+id/positionEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:minHeight="48dp"
+        android:hint="@string/positionAlumni"/>
+
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:minHeight="48dp"
+        android:text="@string/saveAlumni"/>
+
+</LinearLayout>
